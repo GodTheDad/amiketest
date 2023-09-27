@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(37, 39, 68);
+    color: aliceblue;
+    
+}
+header{
+    background-color: black;
+    padding:38px 48px;
+}
+.nav-list{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 18px;
+}
+
+.nav-list a{
+    color: aliceblue;
+    text-decoration: none; 
+}
+
+.brand img{
+    width: 100px;
+}
+
+.horizontal{
+    display: inline-flex;
+    justify-content: space-between;
+}
